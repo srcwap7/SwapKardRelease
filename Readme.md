@@ -1,6 +1,6 @@
 # 📱 **APK DOWNLOAD LINK**
 
-👉 [Click here to download the latest APK](https://expo.dev/accounts/arp98/projects/SwapKard-2/builds/cbcde4d1-3ffb-4006-8256-b0a154de68a6)
+👉 [Click here to download the latest APK](https://expo.dev/accounts/arp98/projects/SwapKard-2/builds/e5579b68-6a3a-4532-a7c9-103de0e12abd)
 
 ---
 
